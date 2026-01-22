@@ -29,11 +29,22 @@ Feature Description:
 - Customer Satisfaction Rating: To measure service quality
 
 ## Dashboard Details
+The project utilises an interactive dashboard to visualise IT performance metrics.
+- Geographical Insights
+- Priority Performance
+- Category Distribution
+- Cluster Similarity
 
 ## Key Insights
-
+- Volume Trends: Identifying peaks in ticket volume by category (e.g., higher volume for software bugs vs. account access).
+- Resolution Gaps: Highlighting specific products or ticket types that consistently exceed target resolution times.
+- Geographic Patterns: Visualizing where the majority of high-priority tickets originate to better distribute support teams.
 
 ## Recommendation
+- Sentiment Analysis: Use Natural Language Processing (NLP) on the Ticket Description field to gauge customer frustration levels beyond the 1-5 rating.
+- Automated Categorisation: Build a classifier to automatically assign Ticket Type and Priority based on the subject and description text.
+- Live Data Integration: Transition from static CSV files to a live API connection.
+- Advanced Clustering: Move beyond basic similarity scores to K-Means or Latent Dirichlet Allocation (LDA) for deeper issue topic modeling.
 
 ## Tools Used
 - Python(Pandas): Data manipulation library to load datasets, explore data schema and handle missing values.
