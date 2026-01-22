@@ -1,0 +1,33 @@
+﻿Learnings (Week 3)
+
+
+Exploratory Data Analysis (EDA)
+
+
+4 steps for data analysis - 
+1. Transform and clean
+   1. Volume of the data and its structure
+   2. How much data?
+   3. Number of rows and columns?
+   4. Categories
+   5. Where is the data from?
+   6. Understand the data.
+2. Outliers 
+   1. Remove or solve the outliers
+3. Compare the data
+4. Relationships
+
+
+
+
+Netflix Data:
+1. Is the platform more focused on 'TV Shows' or 'Movies'? (TV shows tend to keep subscribers retained for months, whereas movies are more viewed once - Retention Strategy)
+2. Where is the content from? OR Which international market is the platform penetrating? (Where is the growth other than the US?)
+3. How soon is the content reaching the streaming platform? (The changing audience habit has led to people watching movies/shows at home rather than in theatres. Are they catering to this need?)
+4. What are the most common genres, and how do they compare to the top genres in countries where growth is expected?
+5. Does the content match the target audience?  (Eg. If the goal is to sell a 'Family Plan' are the content justifying it or against it?)
+
+
+Split the visualisation into two dashboards - 
+1. What do they offer and where is it growing or selling?
+2. The type of content and audience
