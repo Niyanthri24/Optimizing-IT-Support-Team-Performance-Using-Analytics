@@ -5,9 +5,13 @@ The objective of this project is to analyse IT support ticket data to identify k
 
 ## Dataset Description
 Dataset: Customer Support Ticket Dataset
+
 Source: Kaggle
+
 Scale: 8000+ rows and 17 columns
+
 Dataset Description: The dataset includes customer support tickets for various tech products. It consists of customer inquiries related to hardware issues, software bugs, network problems, account access, data loss, and other support topics. The dataset provides information about the customer, the product purchased, the ticket type, the ticket channel, the ticket status, and other relevant details.
+
 Feature Description: 
 - Ticket ID: A unique identifier for each ticket.
 - Ticket Type: The type of ticket (e.g., technical issue, billing inquiry, product inquiry).
