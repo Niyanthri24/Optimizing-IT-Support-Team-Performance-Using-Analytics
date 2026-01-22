@@ -1,0 +1,22 @@
+﻿Learnings (Week 2)
+
+
+* Key difference between Python and Power BI
+   * Power BI: Simple and not-real time.
+   * Python: Reusable, ETL pipeline, automation.
+* In very rare cases, there will be a need to make assumptions about the data.
+* Phone Number data type would be a text. Suppose the number starts with ‘0’, it will be removed if it's an integer.
+* Cleaning in VS Code will use jupyter notebook extension.
+
+
+
+
+Definitions:
+* Libraries: Pre-written codes or functions that help perform common tasks.
+* Dataframe: tabular format where the data is arranged in rows and columns with named axes.
+* Indices: They are from ‘0’ to ‘n’
+* Nan: Empty
+* N/a: null values
+* Drop_duplicates OR drop.columns: to remove unwanted columns and duplicates
+* Strip: remove special characters
+* Standardisation of Y/N, Yes/No
