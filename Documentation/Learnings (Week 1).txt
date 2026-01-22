@@ -1,0 +1,37 @@
+﻿Learnings (Week 1)
+
+
+* We started off discussing the project - Support Analytics
+* The process: Collect Data → Clean Data → Transform (extracting or keeping only the data we require) → Visualising (Power BI)
+* Analyzing the tickets with the help of both Python (cleaning and transforming) and Power BI (visualisation)
+* Extraction of data from database but instead we use SQL, CSV, Excel.
+* Database: An organised collection of structured data stored for management, retrieval, updation and control. 
+
+
+Task Given: Collect IT Ticketing Data for analysing.
+
+
+* Clean Data via Power Query
+   * Reports are static
+   * Dashboards are dynamic
+* Most cases a line chart is used to visualise time series data.
+
+
+
+
+For Final Presentation
+1. Documentation
+2. Upload files to github.
+3. Keep the dashboards interactive.
+
+
+Framing what is required:
+1. Understand the data.
+2. What questions are being answered? 
+3. Dashboard can be of multiple pages.
+   1. Explain the data.
+   2. What is the problem and the need for analysis
+   3. Represent the solution via visuals.
+
+
+Note: An optimal dashboard for a company's needs.
