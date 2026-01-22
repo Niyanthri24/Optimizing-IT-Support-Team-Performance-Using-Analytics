@@ -1,0 +1,62 @@
+﻿Learnings (Week 4)
+
+
+Importing Live Data into Power BI
+
+
+Get data from the Web: Certain websites allow for the data to be imported from the site, but certain websites don't allow importing data due to a few constraints - 
+* Authentication or login requirements
+* JSON content
+* Firewall protection
+* Unstructured data
+
+
+Zendesk - 
+* CRM organisation system
+* Data management
+* Requires an organisation account
+* Used to create an API endpoint
+
+
+Get data: WEB
+* Paste link
+* Basic
+* Username: mail id | Password: API key
+
+
+For real-time or changing data - Extract, Transform and Load (ETL Pipeline) 
+
+
+Note: Zendesk cannot be used, as it is difficult to enter a lot of data manually. This can be a tedious task which will require a lot of manual hours to enter data.
+
+
+GitHub:
+Project Name = Repository Name
+Keep the repository public.
+Folders:
+1. Data Cleaning - notebooks
+2. Data → Raw data and Processed data
+3. Power BI
+4. Screenshots → table, report, model
+5. Documentation (learnings)
+
+
+Readme File (Star of the project)
+1. Problem Statement
+2. Dataset Description
+   1. What data?
+   2. Where is the data from?
+   3. Number of rows and columns
+   4. How does this data help build a dashboard and answer the questions?
+3. KPI Metrics
+   1. Optimal and key
+   2. Explain the metrics
+4. Dashboard 
+   1. Description of each page
+   2. Why the particular visual?
+   3. What can be understood from this?
+5. Key Insights
+6. Reccomendation
+7. Tools Used
+   1. All  the tools with a small explanation
+   2. Where is the tool used?
