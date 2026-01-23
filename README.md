@@ -44,7 +44,6 @@ The project utilises an interactive dashboard to visualise IT performance metric
 - Sentiment Analysis: Use Natural Language Processing (NLP) on the Ticket Description field to gauge customer frustration levels beyond the 1-5 rating.
 - Automated Categorisation: Build a classifier to automatically assign Ticket Type and Priority based on the subject and description text.
 - Live Data Integration: Transition from static CSV files to a live API connection.
-- Advanced Clustering: Move beyond basic similarity scores to K-Means or Latent Dirichlet Allocation (LDA) for deeper issue topic modeling.
 
 ## Tools Used
 - Python(Pandas): Data manipulation library to load datasets, explore data schema and handle missing values.
